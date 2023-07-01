@@ -1,5 +1,7 @@
 {
   "form": "Form Strategy",
+  "auth-socials": "Auth Socials Strategy",
+  "otp": "OTP/Magic Strategy",
   "github": "Github Strategy",
   "google": "Google Strategy",
   "email": "Email Link Strategy",
@@ -18,7 +20,6 @@
   "keycloak": "Keycloak Strategy",
   "bungie": "Bungie Strategy",
   "discord": "Discord Strategy",
-  "otp": "OTP/Magic Strategy",
   "twillio": "Twillio Strategy",
   "web-authn": "WebAuthn (Passkey) Strategy"
 }
